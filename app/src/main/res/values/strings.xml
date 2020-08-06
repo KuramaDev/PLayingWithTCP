@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PLayingWithTCP</string>
+    <string name="senderCoreText"> Tsalikis Stavros </string>
+    <string name= "messageCoreText"> Enter message here</string>
+    <string name= "subjectCoreText" > Sender Name </string>
+    <string name= "sendButton"> Send Message</string>
+    <string name="defaultSendText"> Enter message here...</string>
+</resources>
