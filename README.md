@@ -11,4 +11,4 @@ In this simple experiment were used:
 
 The app represents the client and the files in the TcpServerImplement represent the server. The server was built in Eclipse. 
 
-![Image of Yaktocat](https://.github.com/images/yaktocat.png)
+![Image of PlayingWithTCP](https://.github.com/images/yaktocat.png)
